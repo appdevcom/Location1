@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location1</string>
+    <string name="rationale_location">Give me Location permission</string>
+
+</resources>
